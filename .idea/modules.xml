@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base.manage/base.manage.iml" filepath="$PROJECT_DIR$/base.manage/base.manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common.manage/common.manage.iml" filepath="$PROJECT_DIR$/common.manage/common.manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage.iml" filepath="$PROJECT_DIR$/manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user.manage/user.manage.iml" filepath="$PROJECT_DIR$/user.manage/user.manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web.manage/web.manage.iml" filepath="$PROJECT_DIR$/web.manage/web.manage.iml" />
+    </modules>
+  </component>
+</project>
